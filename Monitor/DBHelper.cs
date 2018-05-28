@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 using System.Configuration;
 
 
-
+//早上好呀！这是来自刘金晶在visual studio上测试git hub的东西哦！第一次测试打卡！
 
 namespace Monitor
 {
